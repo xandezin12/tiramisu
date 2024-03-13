@@ -114,4 +114,4 @@ if (refvirada==9){
 console.log("sobraram "+deck.length+" Cartas no monte.. que são:");
 console.log(deck);
 
-//-- INICIAREMOS PELA JOGADA DO JOGADOR 1
+//-- INICIAREMOS PELA JOGADA DO JOGADOR1
